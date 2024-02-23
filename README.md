@@ -1,4 +1,4 @@
- Hi😄, I’m OwethuM
+ Hi😄, I’m Owethu Mathatho.
  I am an enthusiatic software developer who is passionate about Technology
  I’m interested in building platfotrms that will make the life's of people much better
 - 🌱 I’m currently learning DevOps which seeks to provide continuous intergration (CI) and continous development (CD) in order to atoumate tasks using tools such as docker,
