@@ -15,7 +15,10 @@ The Skills that i have equipped througout my tech journey are:
 - MySql
 - Python (Fundementals)
 - Linux (Fundementals)
-- AWS Cloud Practitioner (Fundementals).     
+- AWS Cloud Practitioner (Fundementals).
+- Jenkins (Fundementals).
+- Docker (Fundementals).
+- Maven (fundemantals).     
 <!---
 OwethuM/OwethuM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
